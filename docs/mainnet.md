@@ -8,7 +8,7 @@ Network ID: 99
 
 RPC endpoint : https://core.poa.network
 
-Official blockchain explorer for the Core network hosted on BlockScout : https://blockscout.com/poa/sokol
+Official blockchain explorer for the Core network hosted on BlockScout : https://blockscout.com/poa/core
 
 ## Smart contracts addresses
 
